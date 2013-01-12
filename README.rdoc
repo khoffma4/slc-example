@@ -16,6 +16,9 @@ This was done quickly and is not perfect.  If you notice a bug, please submit an
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+To use this app you will need to export environment variables
+   export SLC_SANDBOX_KEY= YOUR KEY
+   export SLC_SANDBOX_SECRET= YOUR SECRET
 
 
 
