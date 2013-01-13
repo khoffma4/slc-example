@@ -27,3 +27,8 @@ make this url your application location
   http://localhost:3000/
 make this url your callback
   http://localhost:3000/auth/slc/callback
+
+
+There is a huge problem with the oAuth .... need to pass in an additional parameter called 'redirect_uri', but this is kinda hard.  I tried doing it in the initializer with an oauth param...
+
+HELP!
