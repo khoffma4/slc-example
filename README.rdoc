@@ -21,4 +21,9 @@ To use this app you will need to export environment variables
    export SLC_SANDBOX_SECRET= YOUR SECRET
 
 
+create an application as described in "registering your application" at http://dev.slcedu.org/getting-started/creating-sandbox-account
 
+make this url your application location
+  http://localhost:3000/
+make this url your callback
+  http://localhost:3000/auth/slc/callback
