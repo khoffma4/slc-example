@@ -9,8 +9,8 @@ It uses some of the strategies in Ryan Bate's Railscast #241 Simple OmniAuth: ht
 === Setup
 
 To use this app you will need to export environment variables
-   export SLC_SANDBOX_KEY= YOUR KEY
-   export SLC_SANDBOX_SECRET= YOUR SECRET
+   export SLC_SANDBOX_KEY=YOUR KEY
+   export SLC_SANDBOX_SECRET=YOUR SECRET
 
 
 When you create an application as described in "registering your application" at http://dev.slcedu.org/getting-started/creating-sandbox-account
