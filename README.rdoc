@@ -1,3 +1,6 @@
+== This example is outdated.
+The omniauth-slc gem was renamed to omniauth-inbloom.
+
 == Shared Learning Collaborative integration in a Rails App
 This is an exmaple of how to use the omniauth-slc gem to authenticate with SLC API,
 and then use the HTTParty gem to make request to the API.
